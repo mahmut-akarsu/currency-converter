@@ -4,7 +4,7 @@ import axios from 'axios'
 import './currency.css'
 
 const BASE_URL="https://api.freecurrencyapi.com/v1/latest"
-const API_KEY="fca_live_M6KzkeXDjlQRwzRR8Bw7oMenBoavmpyH8DsgfX7k"
+const API_KEY="YOUR API KEY HERE"
 
 
 function App() {
